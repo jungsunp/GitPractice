@@ -1,4 +1,5 @@
 /**
+ * Author: Jung Park
  * Utility class for Harshad numbers (also called Niven numbers).
  *
  * @namespace Harshad
